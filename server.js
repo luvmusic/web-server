@@ -2,25 +2,10 @@ var express = require('express');
 var app = express();
 const PORT = 3000;
 
-var intercepts =
-{
-	requireAuthentication: function(request, response, next)
-	{
-		console.log("Authentication intercept.");
-		next();
-	},
-	logger: function(request, response, next)
-	{
-		var theRequest = request.method + " " + request.originalUrl
-		
-		console.log("Enter(" + new Date().toString() + ") " + theRequest);
-		next();
-		console.log("Exit(" + new Date().toString() + ") " + theRequest);
-	}
-};
+var middleware = require("./middleware.js");
 
-app.use(intercepts.requireAuthentication);
-app.use(intercepts.logger);
+app.use(middleware.authenticator);
+app.use(middleware.logger);
 
 app.get("/about", function (request, response)
 {
