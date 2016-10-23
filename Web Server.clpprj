@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\SW Projects\Training\NodeJS\web-server\Web Server.clpprj">
+	<settings><PM_URL><![CDATA[]]></PM_URL><PM_HOME_URL><![CDATA[]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\server.js"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\public\index.html"/>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\public\index.html" crc="1477177314"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\vary\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\utils-merge\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\utils-merge\.travis.yml" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\index.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\type-is\node_modules\mime-types\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\type-is\node_modules\media-typer\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\type-is\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\serve-static\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\statuses\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\ms\index.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\mime\build\test.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\mime\build\build.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\mime\mime.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\mime\cli.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\setprototypeof\index.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\inherits\test.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\inherits\inherits_browser.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\inherits\inherits.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\http-errors\index.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\node_modules\destroy\index.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\send\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\range-parser\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\qs\test\utils.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\qs\test\stringify.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\qs\test\parse.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\qs\test\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\qs\lib\utils.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\qs\lib\stringify.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\qs\lib\parse.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\qs\lib\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\qs\dist\qs.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\lib\ipaddr.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\ipaddr.min.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\.travis.yml" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\proxy-addr\node_modules\forwarded\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\proxy-addr\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\path-to-regexp\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\parseurl\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\on-finished\node_modules\ee-first\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\on-finished\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\methods\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\merge-descriptors\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\fresh\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\finalhandler\node_modules\unpipe\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\finalhandler\node_modules\statuses\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\finalhandler\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\etag\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\escape-html\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\encodeurl\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\depd\lib\compat\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\depd\lib\compat\event-listener-count.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\depd\lib\compat\callsite-tostring.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\depd\lib\compat\buffer-concat.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\depd\lib\browser\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\depd\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\debug\node_modules\ms\index.js" crc="1476915632"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\debug\node.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\debug\debug.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\debug\browser.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\cookie-signature\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\cookie\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\content-type\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\content-disposition\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\array-flatten\array-flatten.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\accepts\node_modules\negotiator\lib\mediaType.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\accepts\node_modules\negotiator\lib\language.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\accepts\node_modules\negotiator\lib\encoding.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\accepts\node_modules\negotiator\lib\charset.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\accepts\node_modules\negotiator\index.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\accepts\node_modules\mime-types\node_modules\mime-db\index.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\accepts\node_modules\mime-types\index.js" crc="1476915633"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\accepts\index.js" crc="1476915631"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\router\route.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\router\layer.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\router\index.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\middleware\query.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\middleware\init.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\view.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\utils.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\response.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\request.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\express.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\application.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\index.js" crc="1476915630"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\server.js" crc="1477179155"/>
+	</filescache>
+</project>
