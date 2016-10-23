@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="C:\SW Projects\Training\NodeJS\web-server\Web Server.clpprj">
-	<settings><PM_URL><![CDATA[]]></PM_URL><PM_HOME_URL><![CDATA[]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	<settings><PM_URL><![CDATA[]]></PM_URL><PM_HOME_URL><![CDATA[]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\SW Projects\Training\NodeJS\web-server\ignore.txt;"/><added value=""/><lastopfiles>
 		<file name="C:\SW Projects\Training\NodeJS\web-server\server.js"/>
-		<file name="C:\SW Projects\Training\NodeJS\web-server\public\index.html"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\middleware.js"/>
 	</lastopfiles>
 	<todoblock>
 	</todoblock>
 	<filescache>
-		<file name="C:\SW Projects\Training\NodeJS\web-server\public\index.html" crc="1477177314"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\public\index.html" crc="1477229663"/>
 		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\vary\index.js" crc="1476915631"/>
 		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\utils-merge\index.js" crc="1476915631"/>
 		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\node_modules\utils-merge\.travis.yml" crc="1476915631"/>
@@ -92,6 +92,7 @@
 		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\express.js" crc="1476915630"/>
 		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\lib\application.js" crc="1476915630"/>
 		<file name="C:\SW Projects\Training\NodeJS\web-server\node_modules\express\index.js" crc="1476915630"/>
-		<file name="C:\SW Projects\Training\NodeJS\web-server\server.js" crc="1477179155"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\server.js" crc="1477229907"/>
+		<file name="C:\SW Projects\Training\NodeJS\web-server\middleware.js" crc="1477232848"/>
 	</filescache>
 </project>
