@@ -1,4 +1,4 @@
-module.exports =
+middleware =
 {
 	authenticator: function(request, response, next)
 	{
@@ -8,9 +8,11 @@ module.exports =
 	logger: function(request, response, next)
 	{
 		var theRequest = request.method + " " + request.originalUrl
-		
+
 		console.log("Enter(" + new Date().toString() + ") " + theRequest);
 		next();
 		console.log("Exit(" + new Date().toString() + ") " + theRequest);
 	}
 };
+
+module.exports = middleware;
